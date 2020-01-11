@@ -4,8 +4,8 @@ The project is about Brain Drain in Tunisia. A survey was conducted among
 Tunisian people in order to get answers of several questions about this topic. As a team, we are
 mainly interested in making analysis about two basic questions among all the questions being
 answered :
- What are the reasons that would push you to leave Tunisia ?
- Socially, what’s the difference between Tunisia and abroad in social life ?
+- What are the reasons that would push you to leave Tunisia ?
+- Socially, what’s the difference between Tunisia and abroad in social life ?
 
 The text mining project pipeline is as follow :
 1. Read questionnaire data from a csv file
